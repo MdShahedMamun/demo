@@ -1,6 +1,4 @@
 {
-   "success": true,
-   "error": "",
    "status": 200,
    "data": [
        {
@@ -21,7 +19,7 @@
                        "fax": "jkj",
                        "website": "jkjkj"
                    },
- 		{
+ 		               {
                        "id": 2,
                        "name": "Nibir",
                        "designation": "Prof",
@@ -37,7 +35,7 @@
                ]
            }
        },
- 	{
+    	{
            "id": 1,
            "name": "office2",
            "officers": {
